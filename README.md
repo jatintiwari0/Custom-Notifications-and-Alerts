@@ -1,7 +1,9 @@
 # Custom Notifications and Alerts Plugin for WordPress
 
 Custom Notifications and Alerts is a versatile WordPress plugin that allows administrators to create and manage custom notifications displayed on the front end of their website. It enhances user communication by delivering targeted messages to specific user roles and guest visitors.
+<br>
 
+<img src="https://i.postimg.cc/nc1JL80X/Screenshot-2024-06-14-123715.png">
 ## Features
 
 - **Customizable Messages**: Easily compose and update custom notification messages from the WordPress admin dashboard.
@@ -56,7 +58,7 @@ Configured notifications will be displayed on the front end based on your settin
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/your-repo-url).
+Contributions are welcome! Feel free to submit issues or pull requests on [GitHub](https://github.com/login?return_to=%2Fjatintiwari0%2FCustom-Notifications-and-Alerts).
 
 ## License
 
